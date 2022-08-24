@@ -31,3 +31,7 @@ All CSR instructions are manually encoded into machine language as BRONZEBEARD a
        
        ![image](https://user-images.githubusercontent.com/36818909/186472752-79c2e45b-aa29-4c90-905c-ff9522955961.png)
        
+       COURTESY COKPOWEHEU  https://habr.com/ru/users/COKPOWEHEU/posts/
+       learned many things from his blogs
+
+       
